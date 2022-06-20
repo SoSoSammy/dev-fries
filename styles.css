@@ -16,6 +16,7 @@ body {
     padding: 60px 100px;
 }
 
+/* Left column styles */
 .navigation-wrapper>.left-column {
     display: flex;
     align-items: center;
@@ -40,15 +41,7 @@ body {
         sans-serif;
 }
 
-.links-wrapper>.nav-link a {
-    font-family: 'Ubuntu Condensed', sans-serif;
-    color: white;
-}
-
-.navigation-wrapper>.right-column>.address-wrapper {
-    font-family: 'Ubuntu Condensed', sans-serif;
-}
-
+/* Center column styles */
 .navigation-wrapper>.center-column {
     display: grid;
     grid-template-columns: 1fr;
@@ -89,6 +82,13 @@ body {
     letter-spacing: 2px;
 }
 
-.contact-hours-wrapper {}
+/* Right column styles */
+.navigation-wrapper>.right-column {
+    display: flex;
+    align-items: center;
+}
 
-.address-wrapper {}
+.navigation-wrapper>.right-column>.address-wrapper {
+    font-family: 'Ubuntu Condensed', sans-serif;
+    text-align: right;
+}
