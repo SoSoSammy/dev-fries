@@ -5,7 +5,7 @@ I created this multipage website by following a tutorial from the 2022 Code to S
 
 ## Screenshots
 ### Desktop
-<img width="1755" height="2439" alt="DevCamp's Fantastic Fries Homepage on Desktop" src="https://github.com/user-attachments/assets/726a2731-f3aa-4cab-b782-721a60e1b8ea" />
+![DevCamp's Fantastic Fries Homepage on Desktop](./homepage-desktop.jpeg)
 
 ### Mobile
 ![DevCamp's Fantastic Fries Homepage on Mobile](./homepage-mobile.jpeg)
